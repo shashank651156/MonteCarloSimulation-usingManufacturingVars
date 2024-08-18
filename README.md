@@ -4,8 +4,7 @@
 
 A Python-based Monte Carlo simulation for estimating widget manufacturing times, enhanced with statistical analysis and visualizations.
 
-## Getting Started
-
+## Getting Starte
 ### Prerequisites
 ```bash
 sudo apt-get install python3-pip  # If pip/Python not installed
