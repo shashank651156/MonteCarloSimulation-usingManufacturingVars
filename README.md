@@ -1,5 +1,3 @@
-
-
 # MonteCarloSimulation-usingPython
 
 A Python-based Monte Carlo simulation for estimating widget manufacturing times, enhanced with statistical analysis and visualizations.
@@ -13,7 +11,7 @@ pip install matplotlib           # Install matplotlib for plotting
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/MonteCarloSimulation-usingPython.git  # Clone the repository
+git clone https://github.com/shashank651156/MonteCarloSimulation-usingManufacturingVars.git  # Clone the repository
 cd MonteCarloSimulation-usingPython                                           # Navigate to the project directory
 ```
 
@@ -32,5 +30,5 @@ git push origin feature/YourFeature  # Push the branch
 ```
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE`[] for more information.
 
